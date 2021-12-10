@@ -18,4 +18,4 @@ The following screens should be seen on running the code:
 * The binary image screen that shows the hand in the image.
 * The convex hull and convexity defects being generated on the hand.
 
-If any forms of error occur, please make sure that the path to your `python.exe` and `pip` have been added to your environment variables.
+If any forms of error occur during the installation of libraries, please make sure that the path to your `python.exe` and `pip` have been added to your environment variables.
